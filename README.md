@@ -10,10 +10,6 @@
 - ✅ Displays **real-time user input**  
 - ✅ **Easy to modify and expand**  
 
-## **📸 Screenshots**
-🎨 *Here’s how the calculator looks:*  
-🚀 *(Add screenshots of the GUI here!)*  
-
 ## **📂 Project Structure**
 📦 Calculator
 ┣ 📜 src/main/java/Calculator/LearnjavahahaApplication.java
